@@ -9,8 +9,8 @@ namespace CONDUTOR_Regular.ViewModels
     {
         public AboutViewModel()
         {
-            Title = "About";
-            OpenWebCommand = new Command(async () => await Browser.OpenAsync("https://aka.ms/xamarin-quickstart"));
+            Title = "Início";
+            OpenWebCommand = new Command(async () => await Browser.OpenAsync("http://www.transalvador.salvador.ba.gov.br/"));
         }
 
         public ICommand OpenWebCommand { get; }
