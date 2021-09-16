@@ -8,10 +8,11 @@ O condutor regular é um aplicativo regulador e administrador do uso de tráfego
     • Telefone                                                                                                                                                          
     • Registro Geral (RG)                                                                                                                                               
     • Carteira Nacional de Habilitação (CNH)                                                                                                                            
+    • Condições especiais                                                                                                                                               
+    • Número do registro                                                                                                                                                
+    • Validade 
     
 - Cadastro de veículos - CONDUTORES PROPRIETARIOS e CONDUTORES TEMPORÁRIOS                                                                                              
     • Placa                                                                                                                                                             
     • Titularidade                                                                                                                                                      
-    • Condições especiais                                                                                                                                               
-    • Número do registro                                                                                                                                                
-    • Validade                                                                                                                                                          
+                                                                                                                                                         
