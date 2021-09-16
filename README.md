@@ -9,9 +9,9 @@ O condutor regular é um aplicativo regulador e administrador do uso de tráfego
     • Registro Geral (RG)                                                                                                                                               
     • Carteira Nacional de Habilitação (CNH)                                                                                                                            
     
-- Cadastro de veículos - CONDUTORES PROPRIETARIOS e CONDUTORES TEMPORÁRIOS
-    • Placa
-    • Titularidade
-    • Condições especiais
-    • Número do registro
-    • Validade
+- Cadastro de veículos - CONDUTORES PROPRIETARIOS e CONDUTORES TEMPORÁRIOS                                                                                              
+    • Placa                                                                                                                                                             
+    • Titularidade                                                                                                                                                      
+    • Condições especiais                                                                                                                                               
+    • Número do registro                                                                                                                                                
+    • Validade                                                                                                                                                          
