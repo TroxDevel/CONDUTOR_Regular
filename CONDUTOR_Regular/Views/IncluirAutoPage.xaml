@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CONDUTOR_Regular.Views.IncluirAutoPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label></Label>
+            <Image Source="rodas_icon.png" VerticalOptions="Center" HeightRequest="100" />
+            <Label Text="Renavan" FontSize="Medium" HorizontalOptions="Center"/>
+            <Editor Text="{Binding Telefone, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" Keyboard="Telephone"/>
+            <Label Text="Emplacamento" FontSize="Medium" HorizontalOptions="Center"/>
+            <Editor Text="{Binding RG, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" Keyboard="Text"/>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Cancelar" Command="{Binding CancelarCommand}" HorizontalOptions="FillAndExpand"></Button>
+                <Button x:Name="button" Text="Seguinte" Clicked="OnNextPageButtonClicked" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

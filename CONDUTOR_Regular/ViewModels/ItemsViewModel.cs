@@ -69,7 +69,7 @@ namespace CONDUTOR_Regular.ViewModels
 
         private async void OnAddItem(object obj)
         {
-            await Shell.Current.GoToAsync(nameof(NewItemPage));
+            await Shell.Current.GoToAsync(nameof(NovoUserPage));
         }
 
         async void OnItemSelected(Item item)

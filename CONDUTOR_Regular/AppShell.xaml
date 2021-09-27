@@ -32,7 +32,7 @@
     <TabBar>
         <ShellContent Title="Início" Icon="icon_home.png" Route="AboutPage" ContentTemplate="{DataTemplate local:AboutPage}" />
         <ShellContent Title="Entrar" Icon="icon_entrar.png" ContentTemplate="{DataTemplate local:LoginPage}" />
-        <ShellContent Title="Cadastrar" Icon="icon_cadastrar.png" ContentTemplate="{DataTemplate local:NewItemPage}" />
+        <ShellContent Title="Cadastrar" Icon="icon_cadastrar.png" ContentTemplate="{DataTemplate local:NovoUserPage}" />
     </TabBar>
 
     <!--

@@ -8,11 +8,12 @@
              xmlns:local="clr-namespace:CONDUTOR_Regular.Views"
              Shell.NavBarIsVisible="False">
     <ContentPage.Content>
-        <StackLayout Padding="10,0,10,0" VerticalOptions="Center">
+        <StackLayout Padding="100,0,100,0" VerticalOptions="Center">
+            <Image Source="login_icon.png" VerticalOptions="Center" HeightRequest="100" />
             <Label Text="Usuário" FontSize="Medium" />
             <Entry Text="{Binding Text, Mode=TwoWay}" FontSize="Medium" />
             <Label Text="Senha" FontSize="Medium" />
-            <Editor Text="{Binding Description, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" />
+            <Entry IsPassword="true" />
             <Button VerticalOptions="Center" Text="Entrar" Command="{Binding LoginCommand}"/>
         </StackLayout>
     </ContentPage.Content>
