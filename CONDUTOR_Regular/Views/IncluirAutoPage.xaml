@@ -10,10 +10,31 @@
             <Editor Text="{Binding Telefone, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" Keyboard="Telephone"/>
             <Label Text="Emplacamento" FontSize="Medium" HorizontalOptions="Center"/>
             <Editor Text="{Binding RG, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" Keyboard="Text"/>
-            <Label></Label>
-            <Label></Label>
-            <Label></Label>
-            <Label></Label>
+            <Grid Margin="20,35,20,20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.25*" />
+                    <ColumnDefinition Width="0.20*" />
+                    <ColumnDefinition Width="0.35*" />
+                    <ColumnDefinition Width="0.20*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Label Text="Usuário Geral:"
+               VerticalOptions="Center" />
+                <CheckBox Grid.Column="1"
+                  CheckedChanged="OnItalicCheckBoxChanged"
+                  VerticalOptions="Center" />
+                <Label Grid.Column="2"
+               Text="Proprietário:"
+               VerticalOptions="Center" />
+                <CheckBox Grid.Column="3"
+                  Color="Green"
+                  CheckedChanged="OnBoldCheckBoxChanged" 
+                  VerticalOptions="Center" />
+            </Grid>
             <Label></Label>
             <Label></Label>
             <Label></Label>
