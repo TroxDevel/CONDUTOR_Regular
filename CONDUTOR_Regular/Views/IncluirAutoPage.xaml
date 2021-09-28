@@ -1,15 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="CONDUTOR_Regular.Views.IncluirAutoPage">
+             x:Class="CONDUTOR_Regular.Views.IncluirAutoPage"
+             Title="Novo veículo">
     <ContentPage.Content>
         <StackLayout>
-            <Label></Label>
             <Image Source="rodas_icon.png" VerticalOptions="Center" HeightRequest="100" />
             <Label Text="Renavan" FontSize="Medium" HorizontalOptions="Center"/>
             <Editor Text="{Binding Telefone, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" Keyboard="Telephone"/>
             <Label Text="Emplacamento" FontSize="Medium" HorizontalOptions="Center"/>
             <Editor Text="{Binding RG, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" Keyboard="Text"/>
+            <Label></Label>
+            <Label Text="Condição do veículo" FontSize="Medium" HorizontalOptions="Center"/>
             <Grid Margin="20,35,20,20">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="0.25*" />
@@ -22,17 +24,16 @@
                     <RowDefinition Height="Auto" />
                     <RowDefinition Height="Auto" />
                 </Grid.RowDefinitions>
-                <Label Text="Usuário Geral:"
+                <Label Text="Próprio:"
                VerticalOptions="Center" />
                 <CheckBox Grid.Column="1"
-                  CheckedChanged="OnItalicCheckBoxChanged"
+                          Color="#FF8000"
                   VerticalOptions="Center" />
                 <Label Grid.Column="2"
-               Text="Proprietário:"
+               Text="Temporário:"
                VerticalOptions="Center" />
                 <CheckBox Grid.Column="3"
-                  Color="Green"
-                  CheckedChanged="OnBoldCheckBoxChanged" 
+                  Color="#FF8000"
                   VerticalOptions="Center" />
             </Grid>
             <Label></Label>
@@ -42,11 +43,9 @@
             <Label></Label>
             <Label></Label>
             <Label></Label>
-            <Label></Label>
-            <Label></Label>
             <StackLayout Orientation="Horizontal">
                 <Button Text="Cancelar" Command="{Binding CancelarCommand}" HorizontalOptions="FillAndExpand"></Button>
-                <Button x:Name="button" Text="Seguinte" Clicked="OnNextPageButtonClicked" HorizontalOptions="FillAndExpand" />
+                <Button x:Name="button" Text="Concluir" Clicked="OnNextPageButtonClicked" HorizontalOptions="FillAndExpand" />
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>

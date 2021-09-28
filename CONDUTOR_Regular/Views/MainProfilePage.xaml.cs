@@ -10,15 +10,11 @@ using Xamarin.Forms.Xaml;
 namespace CONDUTOR_Regular.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class IncluirAutoPage : ContentPage
+    public partial class MainProfilePage : ContentPage
     {
-        public IncluirAutoPage()
+        public MainProfilePage()
         {
             InitializeComponent();
-        }
-        async void OnNextPageButtonClicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new MainProfilePage());
         }
     }
 }
