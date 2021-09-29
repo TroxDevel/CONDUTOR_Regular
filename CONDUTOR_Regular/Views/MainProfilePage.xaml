@@ -17,7 +17,7 @@
                 Grid.Row="0"
                 Aspect="AspectFill"
                 HorizontalOptions="Fill"
-                Source="profile_background"
+                Source="perfil_img"
                 VerticalOptions="Fill" />
                 <BoxView
                 Grid.Row="0"
@@ -47,23 +47,6 @@
                             VerticalOptions="End"
                             WidthRequest="10" />
                         </Grid>
-
-                        <!--  Interaction buttons  -->
-                        <ImageButton
-                        BackgroundColor="Transparent"
-                        HorizontalOptions="EndAndExpand"
-                        Source="{DynamicResource MessageIcon}"
-                        VerticalOptions="Center" />
-                        <Button
-                        BackgroundColor="{DynamicResource PrimaryColor}"
-                        CornerRadius="25"
-                        FontAttributes="Bold"
-                        FontSize="10"
-                        HeightRequest="36"
-                        HorizontalOptions="End"
-                        Text="FOLLOW"
-                        TextColor="{DynamicResource PrimaryTextColor}"
-                        VerticalOptions="Center" />
                     </StackLayout>
 
                     <!--  Profile text  -->
@@ -71,15 +54,15 @@
                     Margin="0,9,0,0"
                     FontAttributes="Bold"
                     FontSize="Large"
-                    Text="Adam Anderson"
+                    Text="Nome do Usuário da Silva"
                     TextColor="{DynamicResource ImageOverlayTextColor}" />
                     <Label
                     FontSize="Default"
-                    Text="Software Engineer"
+                    Text="DICIONAR INFORMAÇÃO"
                     TextColor="{DynamicResource ImageOverlayTextColor}" />
                     <Label
                     FontSize="Medium"
-                    Text="I have a passion for writing great software"
+                    Text="Usuário portador de condições especiais"
                     TextColor="{DynamicResource ImageOverlayTextColor}" />
                     <StackLayout
                     Margin="0,20"
@@ -88,7 +71,7 @@
                         <Image Source="location_icon" VerticalOptions="Center" />
                         <Label
                         FontSize="Caption"
-                        Text="Westerville, Ohio"
+                        Text="VEÍCULO INFO"
                         TextColor="{DynamicResource ImageOverlayTextColor}"
                         VerticalOptions="Center" />
                         <BoxView
@@ -101,7 +84,7 @@
                         <Image Source="mobile_icon" VerticalOptions="Center" />
                         <Label
                         FontSize="Caption"
-                        Text="(614) 555-1234"
+                        Text="(XX) XXX-XXXX"
                         TextColor="{DynamicResource ImageOverlayTextColor}"
                         VerticalOptions="Center" />
                     </StackLayout>
@@ -113,7 +96,7 @@
                         <Label
                         FontAttributes="Bold"
                         FontSize="Caption"
-                        Text="Activity"
+                        Text="Atividades"
                         TextColor="{DynamicResource SecondaryTextColor}" />
                         <ImageButton
                         BackgroundColor="Transparent"
