@@ -32,7 +32,6 @@
                     Orientation="Horizontal"
                     Spacing="20">
 
-                        <!--  Circle profile image with indicator  -->
                         <Grid
                         Padding="0"
                         HorizontalOptions="Start"
@@ -49,7 +48,6 @@
                         </Grid>
                     </StackLayout>
 
-                    <!--  Profile text  -->
                     <Label
                     Margin="0,9,0,0"
                     FontAttributes="Bold"
@@ -90,7 +88,6 @@
                     </StackLayout>
                 </StackLayout>
 
-                <!--  Activity feed  -->
                 <StackLayout Grid.Row="1" Padding="16,54,16,0">
                     <StackLayout Padding="3,0" Orientation="Horizontal">
                         <Label
