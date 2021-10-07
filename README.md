@@ -54,7 +54,8 @@ O condutor regular é um aplicativo regulador e administrador do uso de tráfego
     • Débitos do Veículo - Multas                                                                                                                                     
     • Autenticação do usuário por CPF                                                                                                                                 
     • Autenticação do agente por Matrícula 
-    
+                                                                                                                                                                       
+                                                                                                                                                                       
     
     
     Pack de ícones utilizados:    
