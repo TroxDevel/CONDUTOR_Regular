@@ -17,8 +17,12 @@ O condutor regular é um aplicativo regulador e administrador do uso de tráfego
 
     
 - Cadastro de veículos - CONDUTORES PROPRIETARIOS e CONDUTORES TEMPORÁRIOS                                                                                              
-    • Placa                                                                                                                                                             
-    • Titularidade                                                                                                                                                      
+    • Placa                                                                                                                                                           
+    • Titularidade                                                                                                                                                     
+    • Condição do Veículo                                                                                                                                             
+    
+    ![image](https://user-images.githubusercontent.com/42909266/136379354-9240024f-d147-4349-80cc-0c1681840e81.png)
+
                                                                                                                                                          
 - NÃO FUNCIONAIS TEMPORÁRIOS                                                                                              
     • Perfil do Usuário                                                                                                                                                  
