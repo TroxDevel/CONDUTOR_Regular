@@ -16,3 +16,14 @@ O condutor regular é um aplicativo regulador e administrador do uso de tráfego
     • Placa                                                                                                                                                             
     • Titularidade                                                                                                                                                      
                                                                                                                                                          
+- NÃO FUNCIONAIS TEMPORÁRIOS                                                                                              
+    • Perfil do Usuário                                                                                                                                                  
+    • Perfil do Agente                                                                                                                                                  
+    • Notificação do Usuário                                                                                                                                             
+    • Inclusão de Motivação                                                                                                                                               
+    • Registro de Autuação                                                                                                                                               
+    • Registro de Reboque                                                                                                                                                 
+    • Recuperar Senha                                                                                                                                                    
+    • Pontuação de CNH                                                                                                                                                  
+    • IPVA - Regular/Não Regular                                                                                                                                        
+    • Débitos do Veículo - Multas                                                                                                                                                  
