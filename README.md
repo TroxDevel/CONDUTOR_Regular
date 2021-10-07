@@ -11,6 +11,8 @@ O condutor regular é um aplicativo regulador e administrador do uso de tráfego
     • Condições especiais                                                                                                                                               
     • Número do registro                                                                                                                                                
     • Validade 
+    ![image](https://user-images.githubusercontent.com/42909266/136379087-5d3b87b0-6510-4255-880f-125a92860041.png)
+
     
 - Cadastro de veículos - CONDUTORES PROPRIETARIOS e CONDUTORES TEMPORÁRIOS                                                                                              
     • Placa                                                                                                                                                             
