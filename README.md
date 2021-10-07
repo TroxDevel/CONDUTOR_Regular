@@ -29,7 +29,7 @@ O condutor regular é um aplicativo regulador e administrador do uso de tráfego
     • Número do registro                                                                                                                                               
     • Validade 
     
-    ![image](https://user-images.githubusercontent.com/42909266/136379087-5d3b87b0-6510-4255-880f-125a92860041.png) ![image](https://user-images.githubusercontent.com/42909266/136379217-4bf0328b-d1ad-4863-ba26-bc47fb511058.png)
+![image](https://user-images.githubusercontent.com/42909266/136379087-5d3b87b0-6510-4255-880f-125a92860041.png)![image](https://user-images.githubusercontent.com/42909266/136379217-4bf0328b-d1ad-4863-ba26-bc47fb511058.png)
 
 
     
