@@ -2,19 +2,23 @@
 
 O condutor regular é um aplicativo regulador e administrador do uso de tráfego municipal contendo:
 
-- Cadastro de usuários - CONDUTORES e AGENTES MUNICIPAIS DE TRÃNSITO                                                                                                   
+- **Tela inicial do APP**                                                                                                                                             
 
+    • Informações sobre o APP                                                                                                                                         
+    • Informações sobre o órgão responsável                                                                                                                           
+    • Link de acesso ao Site do órgão responsável 
+    
 ![image](https://user-images.githubusercontent.com/42909266/136379544-2326ff4d-14f3-4eed-8605-db7709735f14.png)
 
 
 - Cadastro de usuários - CONDUTORES e AGENTES MUNICIPAIS DE TRÃNSITO                                                                                                    
-    • Nome                                                                                                                                                              
-    • Nascimento                                                                                                                                                        
-    • Telefone                                                                                                                                                          
-    • Registro Geral (RG)                                                                                                                                               
-    • Carteira Nacional de Habilitação (CNH)                                                                                                                            
-    • Condições especiais                                                                                                                                               
-    • Número do registro                                                                                                                                                
+    • Nome                                                                                                                                                             
+    • Nascimento                                                                                                                                                       
+    • Telefone                                                                                                                                                         
+    • Registro Geral (RG)                                                                                                                                             
+    • Carteira Nacional de Habilitação (CNH)                                                                                                                           
+    • Condições especiais                                                                                                                                             
+    • Número do registro                                                                                                                                               
     • Validade 
     
     ![image](https://user-images.githubusercontent.com/42909266/136379087-5d3b87b0-6510-4255-880f-125a92860041.png) ![image](https://user-images.githubusercontent.com/42909266/136379217-4bf0328b-d1ad-4863-ba26-bc47fb511058.png)
@@ -30,13 +34,13 @@ O condutor regular é um aplicativo regulador e administrador do uso de tráfego
 
                                                                                                                                                          
 - NÃO FUNCIONAIS TEMPORÁRIOS                                                                                              
-    • Perfil do Usuário                                                                                                                                                  
-    • Perfil do Agente                                                                                                                                                  
-    • Notificação do Usuário                                                                                                                                             
-    • Inclusão de Motivação                                                                                                                                               
-    • Registro de Autuação                                                                                                                                               
-    • Registro de Reboque                                                                                                                                                 
-    • Recuperar Senha                                                                                                                                                    
-    • Pontuação de CNH                                                                                                                                                  
-    • IPVA - Regular/Não Regular                                                                                                                                        
+    • Perfil do Usuário                                                                                                                                               
+    • Perfil do Agente                                                                                                                                                 
+    • Notificação do Usuário                                                                                                                                           
+    • Inclusão de Motivação                                                                                                                                           
+    • Registro de Autuação                                                                                                                                             
+    • Registro de Reboque                                                                                                                                             
+    • Recuperar Senha                                                                                                                                                 
+    • Pontuação de CNH                                                                                                                                                 
+    • IPVA - Regular/Não Regular                                                                                                                                       
     • Débitos do Veículo - Multas                                                                                                                                                  
