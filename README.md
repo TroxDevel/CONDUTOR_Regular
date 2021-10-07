@@ -10,7 +10,15 @@ O condutor regular é um aplicativo regulador e administrador do uso de tráfego
     
 ![image](https://user-images.githubusercontent.com/42909266/136379544-2326ff4d-14f3-4eed-8605-db7709735f14.png)
 
+- **Tela de Login**                                                                                                                                             
 
+    • Autenticação                                                                                                                                         
+    • Usuário/Login                                                                                                                           
+    • Senha/Password 
+    
+    ![image](https://user-images.githubusercontent.com/42909266/136380311-f9367d07-15fd-422f-b08e-0819e6213229.png)
+
+    
 - Cadastro de usuários - CONDUTORES e AGENTES MUNICIPAIS DE TRÃNSITO                                                                                                    
     • Nome                                                                                                                                                             
     • Nascimento                                                                                                                                                       
