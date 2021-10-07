@@ -51,4 +51,6 @@ O condutor regular é um aplicativo regulador e administrador do uso de tráfego
     • Recuperar Senha                                                                                                                                                 
     • Pontuação de CNH                                                                                                                                                 
     • IPVA - Regular/Não Regular                                                                                                                                       
-    • Débitos do Veículo - Multas                                                                                                                                                  
+    • Débitos do Veículo - Multas                                                                                                                                     
+    • Autenticação do usuário por CPF                                                                                                                                 
+    • Autenticação do agente por Matrícula 
